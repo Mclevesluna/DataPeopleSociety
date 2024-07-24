@@ -45,10 +45,13 @@ from IPython.display import display
 1. Open `IndexPM.html` in your browser.
 2. Ensure `ParticlePM.js` is in the same directory as `IndexPM.html`.
 
-![image](https://github.com/user-attachments/assets/572d209e-d88c-4ffd-aafe-a9e80bc00bcb)
+## Line Graph
+![Line Graph](https://github.com/Visualizing-air-quality-in-London/Images/linegraph.png)
 
-![image](https://github.com/user-attachments/assets/8c8207b3-9793-47a5-aaf0-135ea155e191)
+### Morning and Nighttime Visualization
+![Morning and Nighttime Visualization](https://github.com/Visualizing-air-quality-in-London/Images/AM_PMVisualization.png)
 
-![image](https://github.com/user-attachments/assets/c4d76e2f-131c-40dd-9ce8-ab6d1ac5851f)
+### Nighttime Visualization Scraping 1960 harmful particles
+![Nighttime Visualization Scraping 1960 harmful particles](https://github.com/Visualizing-air-quality-in-London/Images/PMVisualizationScrapingExcess.png)
 
 

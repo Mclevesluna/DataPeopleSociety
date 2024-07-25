@@ -24,6 +24,8 @@ A series of insights can be drawn from the visualizations. From the line graph d
 ### Nighttime Visualization Scraping 1960 harmful particles
 [Nighttime Visualization Scraping 1960 harmful particles](https://github.com/Visualizing-air-quality-in-London/Images/PMVisualizationScrapingExcess.png)
 
+
+
 ## Installation Instructions
 
 ### Libraries Used for the Line Graph

@@ -16,14 +16,13 @@ To accomplish this, the data is visualized in two main ways. The first is a larg
 A series of insights can be drawn from the visualizations. From the line graph depicted below, we can see three types of particles being shown. Each line represents the amount of different-sized particles per cubic meter. Immediately, it is easy to recognize that there seems to be a larger concentration of larger particles (PM10) and a lower concentration of smaller particles (PM01). Apart from this, when hovering over the graph, we can see whether the reading being shown is a nighttime or a daytime reading which also lets us determine that readings at night usually have a much higher concentration of particles of all three sizes. Now, since CCI’s sensors are placed both indoors and outdoors, we will not be looking at that variable specifically. We will assume that the readings are higher at PM than AM and that there is a higher concentration of larger particles in general.
 
 ## Line Graph
-[Line Graph](https://github.com/Visualizing-air-quality-in-London/Images/linegraph.png)
+![Line Graph](/Images/linegraph.png)
 
 ### Morning and Nighttime Visualization
-[Morning and Nighttime Visualization](https://github.com/Visualizing-air-quality-in-London/Images/AM_PMVisualization.png)
+![Morning and Nighttime Visualization](Images/AM_PMVisualization.png)
 
 ### Nighttime Visualization Scraping 1960 harmful particles
-[Nighttime Visualization Scraping 1960 harmful particles](https://github.com/Visualizing-air-quality-in-London/Images/PMVisualizationScrapingExcess.png)
-
+![Nighttime Visualization Scraping 1960 harmful particles](Images/PMVisualizationScrapingExcess.png)
 
 
 ## Installation Instructions

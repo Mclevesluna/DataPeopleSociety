@@ -19,10 +19,10 @@ A series of insights can be drawn from the visualizations. From the line graph d
 ![Line Graph](/Images/linegraph.png)
 
 ### Morning and Nighttime Visualization
-![Morning and Nighttime Visualization](Images/AM_PMVisualization.png)
+![Morning and Nighttime Visualization](/Images/AM_PMVisualization.png)
 
 ### Nighttime Visualization Scraping 1960 harmful particles
-![Nighttime Visualization Scraping 1960 harmful particles](Images/PMVisualizationScrapingExcess.png)
+![Nighttime Visualization Scraping 1960 harmful particles](/Images/PMVisualizationScrapingExcess.png)
 
 
 ## Installation Instructions
